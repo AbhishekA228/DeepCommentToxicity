@@ -62,7 +62,7 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact
-For questions, feedback, or support, please contact your-email@example.com.
+For questions, feedback, or support, please contact abhishekofficial228@gmail.com.
 
 This README provides an overview and instructions for setting up and using the Deep Comment Toxicity Model. By following the steps outlined, you can effectively integrate this model into your own projects to enhance the quality of online interactions within your community.
 
